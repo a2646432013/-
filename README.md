@@ -1,2 +1,1 @@
-# -
- Use Java/JDBC/mysql
+一个银行管理系统
